@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https:ayush946.github.io/expenseTracker",
+  "homepage": "http://ayush946.github.io/expenseTracker",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
